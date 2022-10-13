@@ -1,0 +1,16 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+----------------------------------------------------------------------------------------------------------------------------
+| Tool Version      : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date              : Tue Sep 13 10:23:00 2022
+| Host              : sunny running 64-bit Ubuntu 16.04.1 LTS
+| Command           : report_bus_skew -warn_on_violation -file route_report_bus_skew_0.rpt -rpx route_report_bus_skew_0.rpx
+| Design            : z920_nvdla_ps_wrapper
+| Device            : xczu19eg-ffvc1760
+| Speed File        : -2  PRODUCTION 1.19 03-17-2018
+| Temperature Grade : E
+----------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

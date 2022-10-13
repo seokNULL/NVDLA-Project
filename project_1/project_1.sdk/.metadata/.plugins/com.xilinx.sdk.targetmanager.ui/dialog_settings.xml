@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="/home/sy/work/nvdla_prj/vivado_nvdla_prj/z920_ps_nvdla_latest/project_1/project_1.runs/impl_1/z920_nvdla_ps_wrapper.bit" key="z920_nvdla_ps_wrapper_hw_platform_0-bitFile"/>
+	<item value="false" key="z920_nvdla_ps_wrapper_hw_platform_0-partial_bit"/>
+	<item value="Auto Detect" key="z920_nvdla_ps_wrapper_hw_platform_0-device"/>
+	<item value="" key="z920_nvdla_ps_wrapper_hw_platform_0-bmmFile"/>
+	<item value="z920_nvdla_ps_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="ttt" key="z920_nvdla_ps_wrapper_hw_platform_0-target"/>
+</section>

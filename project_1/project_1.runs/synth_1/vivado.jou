@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Mon Sep 12 20:12:37 2022
+# Process ID: 100576
+# Current directory: /home/sy/work/nvdla_prj/vivado_nvdla_prj/z920_ps_nvdla_latest/project_1/project_1.runs/synth_1
+# Command line: vivado -log z920_nvdla_ps_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source z920_nvdla_ps_wrapper.tcl
+# Log file: /home/sy/work/nvdla_prj/vivado_nvdla_prj/z920_ps_nvdla_latest/project_1/project_1.runs/synth_1/z920_nvdla_ps_wrapper.vds
+# Journal file: /home/sy/work/nvdla_prj/vivado_nvdla_prj/z920_ps_nvdla_latest/project_1/project_1.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source z920_nvdla_ps_wrapper.tcl -notrace

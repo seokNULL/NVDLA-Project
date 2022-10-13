@@ -1,0 +1,45 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.8.5  2018-01-30 bk=1.4354 VDI=40 GEI=35 GUI=JA:1.6 TLS
+#  -string -flagsOSRD
+preplace port C0_SYS_CLK_0 -pg 1 -y 20 -defaultsOSRD
+preplace port C0_DDR4_0 -pg 1 -y 20 -defaultsOSRD
+preplace port sys_rst_0 -pg 1 -y 40 -defaultsOSRD
+preplace inst zynq_ultra_ps_e_0 -pg 1 -lvl 1 -y 1060 -defaultsOSRD
+preplace inst NVDLA_system -pg 1 -lvl 2 -y 80 -defaultsOSRD
+preplace inst util_vector_logic_0 -pg 1 -lvl 1 -y 880 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 1 -y 740 -defaultsOSRD
+preplace inst axi_cdma_1 -pg 1 -lvl 2 -y 360 -defaultsOSRD
+preplace inst blk_mem_gen_1 -pg 1 -lvl 1 -y 400 -defaultsOSRD
+preplace inst ddr4_0 -pg 1 -lvl 1 -y 550 -defaultsOSRD
+preplace inst axi_interconnect_1 -pg 1 -lvl 2 -y 550 -defaultsOSRD
+preplace inst axi_interconnect_2 -pg 1 -lvl 2 -y 810 -defaultsOSRD
+preplace inst axi_interconnect_3 -pg 1 -lvl 1 -y 180 -defaultsOSRD
+preplace inst axi_bram_ctrl_1 -pg 1 -lvl 2 -y 210 -defaultsOSRD
+preplace netloc axi_interconnect_2_M01_AXI 1 1 2 740 990 1060
+preplace netloc axi_interconnect_2_M02_AXI 1 0 3 0 1250 NJ 1250 1080
+preplace netloc NVDLA_system_M00_AXI 1 0 3 20 1220 NJ 1220 1140
+preplace netloc ACLK_1 1 0 2 -110 1270 680
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM0_LPD 1 1 1 670
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM0_FPD 1 0 2 -50 1210 640
+preplace netloc util_vector_logic_0_Res 1 0 2 -70 1310 660
+preplace netloc ddr4_0_c0_ddr4_ui_clk_sync_rst 1 0 2 -40 1300 710
+preplace netloc axi_cdma_1_M_AXI_SG 1 0 3 -120 1260 NJ 1260 1120
+preplace netloc axi_cdma_1_M_AXI 1 1 2 760 970 1090
+preplace netloc proc_sys_reset_0_interconnect_aresetn 1 0 2 -100 1280 730
+preplace netloc C0_SYS_CLK_0_1 1 0 1 -130
+preplace netloc clk_wiz_0_clk_out1 1 0 3 -60 1340 NJ 1340 1160
+preplace netloc sys_rst_0_1 1 0 1 -140
+preplace netloc proc_sys_reset_0_peripheral_aresetn 1 0 2 -90 1290 720
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM1_FPD 1 1 1 700
+preplace netloc ddr4_0_C0_DDR4 1 1 2 690J 1000 1170
+preplace netloc axi_interconnect_3_M00_AXI 1 0 2 10 1200 650
+preplace netloc axi_interconnect_2_M00_AXI 1 0 3 -80 1240 NJ 1240 1100
+preplace netloc axi_interconnect_1_M00_AXI 1 1 2 750 980 1070
+preplace netloc axi_bram_ctrl_1_BRAM_PORTA 1 0 3 -10 1230 NJ 1230 1110
+preplace netloc NVDLA_system_dla_intr 1 0 3 -20 1320 NJ 1320 1150
+preplace netloc axi_cdma_1_cdma_introut 1 0 3 -30 1330 NJ 1330 1130
+levelinfo -pg 1 -160 330 910 1190 -top 0 -bot 1350
+",
+}
+
